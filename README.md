@@ -46,7 +46,7 @@ I enjoy turning complex problems into elegant, efficient, and scalable solutions
 
 ## 📊 GitHub Stats
 
-![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajuGuttedar&show_icons=true&theme=tokyonight)
+![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajuguttedar&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajuGuttedar&layout=compact&theme=tokyonight)
 
 ---
