@@ -23,8 +23,8 @@ I enjoy turning complex problems into elegant, efficient, and scalable solutions
 - 🍃 **MongoDB (Mongoose)** – NoSQL database with flexible schema  
 
 ### ☁️ Hosting & Tools
-- ▲ **Vercel / Netlify** – Frontend deployment  
-- ☁️ **Render / Railway / AWS EC2** – Backend deployment  
+- ▲ **Vercel / AWS S3** – Frontend deployment  
+- ☁️ **Northflank / Render / Railway / AWS EC2** – Backend deployment  
 - 🗂 **Git & GitHub** – Version control  
 - 💬 **Postman** – API testing  
 - ⚙️ **VS Code** – My go-to development environment  
@@ -47,14 +47,13 @@ I enjoy turning complex problems into elegant, efficient, and scalable solutions
 ## 📊 GitHub Stats
 
 ![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajuguttedar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajuguttedar&layout=compact&theme=radical)
 
 ---
 
-## 🧰 Favorite Tools
+## 🛠 Tech Stack & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,tailwind,html,css,javascript,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express,mongodb,framer,js,html,css" />
 </p>
 
 ---
