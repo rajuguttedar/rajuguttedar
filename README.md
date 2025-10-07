@@ -24,7 +24,7 @@ I enjoy turning complex problems into elegant, efficient, and scalable solutions
 
 ### ☁️ Hosting & Tools
 - ▲ **Vercel / AWS S3** – Frontend deployment  
-- ☁️ **Northflank / Render / Railway / AWS EC2** – Backend deployment  
+- ☁️ **Northflank / Render / AWS EC2** – Backend deployment  
 - 🗂 **Git & GitHub** – Version control  
 - 💬 **Postman** – API testing  
 - ⚙️ **VS Code** – My go-to development environment  
@@ -47,13 +47,14 @@ I enjoy turning complex problems into elegant, efficient, and scalable solutions
 ## 📊 GitHub Stats
 
 ![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajuguttedar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajuguttedar&layout=compact&theme=radical)
 
 ---
 
-## 🛠 Tech Stack & Libraries
+## 🧰 Favorite Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express,mongodb,framer,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,tailwind,html,css,javascript,git,github,vscode,postman" />
 </p>
 
 ---
